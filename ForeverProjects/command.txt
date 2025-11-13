@@ -1,0 +1,57 @@
+﻿
+
+
+
+
+1. 使用reids
+	1）安装NuGet包
+		StackExchange.Redis    # Redis 客户端核心包
+		Microsoft.Extensions.Caching.StackExchangeRedis  # 集成 ASP.NET Core 缓存抽象（简化缓存用法）
+	2）配置Redis缓存
+		在appsettings.json中添加Redis连接字符串：
+		```json
+		{
+		  "Redis": 
+		  {
+			"ConnectionString": "127.0.0.1:6379,password=密码,connectTimeout=5000,syncTimeout=5000",
+			"InstanceName": "TestLock_"  // 缓存键前缀（避免多项目键冲突）
+		  }
+		}
+		```
+	3）在Program.cs中配置Redis缓存服务
+		使用官方封装的缓存抽象，无需直接操作 Redis 客户端
+		```csharp
+		builder.Services.AddStackExchangeRedisCache(options =>
+		{
+			options.Configuration = builder.Configuration.GetConnectionString("Redis:ConnectionString")
+				?? throw new InvalidOperationException("Connection string 'RedisConn' not found.");
+			options.InstanceName = builder.Configuration.GetValue<string>("Redis:InstanceName") ?? throw new InvalidOperationException("Redis instance name not found.");
+		});
+		```
+	4）如果仅需缓存功能，直接注入 IDistributedCache（官方封装，无需自定义工具类）
+		```csharp
+		public class MyService
+		{
+			private readonly IDistributedCache _cache;
+			public MyService(IDistributedCache cache)
+			{
+				_cache = cache;
+			}
+		}
+		```
+	5）要实现分布式锁功能，可实现一个 Redis 分布式锁工具类（也可用第三方库）
+		修改之前注册的缓存服务，不用官方封装的缓存抽象（无法执行命令）
+		注册原生 StackExchange.Redis 客户端（灵活控制）
+		builder.Services.AddSingleton<IConnectionMultiplexer>(options =>
+		{
+			var configuration = builder.Configuration.GetConnectionString("Redis:ConnectionString")
+				?? throw new InvalidOperationException("Connection string 'RedisConn' not found.");
+			return ConnectionMultiplexer.Connect(configuration);
+		});
+	6）实现 Redis 工具服务类与接口并注册到DI
+
+
+
+
+
+

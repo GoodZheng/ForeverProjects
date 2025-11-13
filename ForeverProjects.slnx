@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/lock/">
+    <Project Path="ForeverProjects/TestLock.csproj" />
+  </Folder>
+</Solution>
