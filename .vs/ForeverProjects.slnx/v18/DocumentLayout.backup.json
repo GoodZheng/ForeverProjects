@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\",
+  "WorkspaceRootPath": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\TestLock.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\controllers\\orderscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\TestLock.csproj|solutionrelative:foreverprojects\\controllers\\orderscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|d:\\myfiles\\demo\\net\\my\\foreverprojects\\authentication\\easyauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|solutionrelative:authentication\\easyauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|solutionrelative:foreverprojects\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|d:\\myfiles\\demo\\net\\my\\foreverprojects\\authentication\\easyauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|solutionrelative:authentication\\easyauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|solutionrelative:foreverprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|d:\\myfiles\\demo\\net\\my\\foreverprojects\\authentication\\easyauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|solutionrelative:authentication\\easyauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\TestLock.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\testlock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\TestLock.csproj|solutionrelative:foreverprojects\\testlock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|solutionrelative:foreverprojects\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|solutionrelative:foreverprojects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|solutionrelative:foreverprojects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|c:\\users\\peano\\source\\repos\\foreverprojects\\foreverprojects\\command.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{40807A3A-BEB9-4DE9-ADCF-2BE6DA788890}|ForeverProjects\\ForeverProjects.csproj|solutionrelative:foreverprojects\\command.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|d:\\myfiles\\demo\\net\\my\\foreverprojects\\authentication\\easyauthentication\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B5959-457C-40BE-B4ED-4D064B3EA433}|Authentication\\EasyAuthentication\\EasyAuthentication.csproj|solutionrelative:authentication\\easyauthentication\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrdersController1.cs",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\Controllers\\OrdersController1.cs",
-              "RelativeDocumentMoniker": "ForeverProjects\\Controllers\\OrdersController1.cs",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\Controllers\\OrdersController1.cs",
-              "RelativeToolTip": "ForeverProjects\\Controllers\\OrdersController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:59:26.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TestLock",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\TestLock.csproj",
-              "RelativeDocumentMoniker": "ForeverProjects\\TestLock.csproj",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\TestLock.csproj",
-              "RelativeToolTip": "ForeverProjects\\TestLock.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-12T13:47:20.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\appsettings.json",
-              "RelativeDocumentMoniker": "ForeverProjects\\appsettings.json",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\appsettings.json",
-              "RelativeToolTip": "ForeverProjects\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-12T13:44:39.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ForeverProjects\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ForeverProjects\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAMAAAAAAAAAA==",
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\DTOs\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "Authentication\\EasyAuthentication\\DTOs\\TokenRequest.cs",
+              "ToolTip": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\DTOs\\TokenRequest.cs",
+              "RelativeToolTip": "Authentication\\EasyAuthentication\\DTOs\\TokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:34:15.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "command.txt",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\command.txt",
-              "RelativeDocumentMoniker": "ForeverProjects\\command.txt",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\command.txt",
-              "RelativeToolTip": "ForeverProjects\\command.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-12T13:33:16.625Z",
+              "WhenOpened": "2025-11-15T17:10:24.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\models\\Order.cs",
-              "RelativeDocumentMoniker": "ForeverProjects\\models\\Order.cs",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\models\\Order.cs",
-              "RelativeToolTip": "ForeverProjects\\models\\Order.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIA7wBkAAAAPAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\EasyAuthentication\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Authentication\\EasyAuthentication\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzMAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:15:57.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\models\\User.cs",
-              "RelativeDocumentMoniker": "ForeverProjects\\models\\User.cs",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\models\\User.cs",
-              "RelativeToolTip": "ForeverProjects\\models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:13:22.295Z",
+              "WhenOpened": "2025-11-15T16:38:53.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\EasyAuthentication\\appsettings.json",
+              "ToolTip": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\EasyAuthentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T15:43:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\Program.cs",
-              "RelativeDocumentMoniker": "ForeverProjects\\Program.cs",
-              "ToolTip": "C:\\Users\\peano\\source\\repos\\ForeverProjects\\ForeverProjects\\Program.cs",
-              "RelativeToolTip": "ForeverProjects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\EasyAuthentication\\Program.cs",
+              "ToolTip": "D:\\MyFiles\\demo\\net\\My\\ForeverProjects\\Authentication\\EasyAuthentication\\Program.cs*",
+              "RelativeToolTip": "Authentication\\EasyAuthentication\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:12:46.715Z",
+              "WhenOpened": "2025-11-15T15:41:15.811Z",
               "EditorCaption": ""
             }
           ]

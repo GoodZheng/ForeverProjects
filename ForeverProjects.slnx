@@ -1,5 +1,8 @@
 <Solution>
+  <Folder Name="/Authentication/">
+    <Project Path="Authentication/EasyAuthentication/EasyAuthentication.csproj" Id="ab8b5959-457c-40be-b4ed-4d064b3ea433" />
+  </Folder>
   <Folder Name="/lock/">
-    <Project Path="ForeverProjects/TestLock.csproj" />
+    <Project Path="TestLock/TestLock.csproj" />
   </Folder>
 </Solution>
